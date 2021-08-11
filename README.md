@@ -1,5 +1,5 @@
 # projWeb
-Projeto da Matéria de Programação Web 
-Professor: Kamilla
+Projeto da MatÃ©ria de ProgramaÃ§Ã£o Web 
+Professor(a): Kamilla
 Linguagem: C#
 FrameWork: ASP.NET
